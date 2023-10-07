@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="UnitOfWork\o5ngx5md.ycm~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NguyenThanhDat.Web06.Application\NguyenThanhDat.Web06.Application.csproj" />
+    <ProjectReference Include="..\NguyenThanhDat.Web06.Domain\NguyenThanhDat.Web06.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+	<PackageReference Include="Dapper" Version="2.0.143" />
+	<PackageReference Include="MySqlConnector" Version="2.2.7" />
+  </ItemGroup>
+</Project>

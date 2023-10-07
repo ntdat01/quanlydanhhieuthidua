@@ -1,0 +1,128 @@
+.icon {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.icon--toggle {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -192px 0px;
+}
+
+.icon--notification {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -24px -48px;
+    cursor: pointer;
+}
+
+.icon--help {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -48px -48px;
+    cursor: pointer;
+}
+
+.icon--more {
+    background: transparent url('../../assets/icons/more.svg') no-repeat;
+    cursor: pointer;
+}
+
+.icon--document {
+    background: transparent url('../../assets/icons/document.svg') no-repeat;
+    cursor: pointer;
+}
+
+.icon--dropdown {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -144px -48px;
+}
+
+.icon--edit {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat 0px -72px;
+}
+
+.icon--filter {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -96px -48px;
+}
+
+.icon--plus {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -216px -96px;
+    filter: brightness(0) invert(1);
+}
+
+.icon--prev {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -216px -0px;
+}
+
+.icon--dashboard {
+    background-image: url('../../assets/icons/dashboard.svg');
+}
+
+.icon--compete {
+    background-image: url('../../assets/icons/compete.svg');
+}
+
+.icon--decision {
+    background-image: url('../../assets/icons/decision.svg');
+}
+
+.icon--file {
+    background: url('../../assets/icons/file.svg');
+}
+
+.icon--search {
+    background-image: url('../../assets/icons/search.svg');
+}
+
+.icon--report {
+    background-image: url('../../assets/icons/report.svg');
+}
+
+.icon--category {
+    background-image: url(https://cegovapp.misacdn.net/cegov/img/ic_category.f257fcc6.svg);
+}
+
+.icon--setting {
+    background: url('../../assets/icons/setting.svg');
+    cursor: pointer;
+}
+
+.icon--instruct {
+    background-image: url('../../assets/icons/instruct.svg');
+}
+
+.icon--collapse {
+    background-image: url('../../assets/icons/collapse.svg');
+}
+
+.icon--right {
+    background-image: url('../../assets/icons/right.svg');
+    position: absolute;
+    right: 16px;
+}
+
+.icon--next {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -240px 0px;
+}
+
+.icon--bonus {
+    background-image: url('../../assets/icons/bonus.svg');
+}
+
+.icon--close {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -240px -24px;
+}
+
+.icon--much {
+    background: transparent url('../../assets/icons/icon.svg') no-repeat -168px -48px;
+}
+
+/* logo*/
+
+.logo {
+    width: 32px;
+    height: 32px;
+}
+
+/* avatar */
+.avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+}

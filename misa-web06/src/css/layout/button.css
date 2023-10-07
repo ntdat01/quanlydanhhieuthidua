@@ -1,0 +1,141 @@
+/* btn */
+.btn {
+    min-height: 36px;
+    min-width: 80px;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 4px;
+    gap: 4px;
+    cursor: pointer;
+    padding: 0px;
+    font-weight: 500;
+}
+
+/* btn focus */
+.btn:focus {
+    outline: 1px solid var(--color-primary);
+}
+
+/* btn--primary */
+.btn--primary {
+    padding: 0px 16px 0px 14px;
+    background-color: var(--color-primary);
+    color: #fff;
+}
+
+/* btn--save */
+.btn--save {
+
+    background-color: var(--color-primary);
+    color: #fff;
+    justify-content: center;
+}
+
+/* text */
+.btn-text {
+    display: inline-block;
+}
+
+/* btn--primary and btn--save hover */
+.btn--primary:hover {
+    background-color: var(--color-hover);
+}
+
+.btn--save:hover {
+    background-color: var(--color-hover);
+}
+
+/* btn--primary, btn--save, btn--outline active */
+.btn--primary:active {
+    background-color: var(--color-active);
+    color: #fff;
+}
+
+.btn--save:active {
+    background-color: var(--color-active);
+    color: #fff;
+}
+
+.btn--outline:active {
+    background-color: var(--color-active);
+    color: #fff;
+}
+
+/* btn--extra */
+.btn--extra {
+    justify-content: center;
+    border: 1px solid var(--color-border-default);
+    background-color: #fff;
+}
+
+/* btn--extra, btn--filter hover*/
+.btn--filter:hover {
+    background-color: var(--color-btn-extra-hover);
+}
+
+.btn--extra:hover {
+    background-color: var(--color-btn-extra-hover);
+}
+
+/* btn--extra, btn--filter  active*/
+.btn--extra:active {
+    background-color: var(--color-btn-extra-active);
+}
+
+.btn--filter:active {
+    background-color: var(--color-btn-extra-active);
+}
+
+/* btn--outline */
+.btn--outline {
+    border: 1px solid #2979ff;
+    color: #2979ff;
+    background-color: #fff;
+    padding: 0px 16px 0px 14px;
+}
+
+/* btn--hover */
+.btn--outline:hover {
+    background-color: #eef4ff;
+    color: #2979ff;
+}
+
+/* btn--filter  */
+.btn--filter {
+    padding: 0px 16px 0px 10px;
+    background-color: #fff;
+    border: 1px solid var(--color-border-default);
+}
+
+/* btn--search */
+.btn--search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    min-width: 32px !important;
+}
+
+/* btn-cbo */
+.btn-cbo {
+    cursor: pointer;
+    background-color: #fff;
+    border: none;
+    margin-left: 8px;
+}
+
+.button-icon {
+    display: flex;
+    gap: 16px;
+}
+
+.close {
+    outline: none;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+    margin-right: -10px;
+}

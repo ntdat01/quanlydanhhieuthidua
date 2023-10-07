@@ -1,0 +1,107 @@
+.form-modal {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.form {
+    width: 600px;
+    /* height: 500px; */
+    position: absolute;
+    top: 10%;
+    left: 28%;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 11px rgba(0, 0, 0, 0.08);
+}
+
+.form-title {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.form-header {
+    display: flex;
+    padding: 30px 24px 30px 24px;
+    justify-content: space-between;
+}
+
+.form-main {
+    padding: 0px 24px;
+}
+
+.form-left {
+    width: 50%;
+}
+
+.form-information {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.form-right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.object {
+    margin-bottom: 5px;
+}
+
+label {
+    display: block;
+    padding-bottom: 8px;
+    padding-top: 10px;
+}
+
+.form-checkbox {
+    display: flex;
+    align-items: center;
+}
+
+textarea {
+    width: 100%;
+    border: 1px solid #E0E0E0;
+    border-radius: 4px;
+    outline: none;
+    padding-left: 12px;
+}
+
+.check-object,
+.check-collective {
+    display: flex;
+    align-items: center;
+}
+
+.check-object {
+    margin-right: 34px;
+}
+
+.group-two {
+    display: flex;
+}
+
+.frequency {
+    display: flex;
+    align-items: center;
+}
+
+.footer {
+    margin-top: 10px;
+    display: flex;
+    padding: 12px 24px;
+    gap: 12px;
+    flex-direction: row-reverse;
+    border-top: 1px solid var(--color-border-default);
+}
+
+.text-error {
+    color: red;
+    margin-top: 5px;
+}

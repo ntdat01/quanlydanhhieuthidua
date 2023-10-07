@@ -1,0 +1,32 @@
+.tooltip-bg-hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    min-width: 50px !important;
+    height: 30px;
+    background-color: #001833;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    top: -46px;
+    font-size: 14px;
+}
+
+.tooltip-text {
+    min-width: 30px;
+    padding: 0px 10px;
+}
+
+.sub {
+    position: absolute;
+    top: 102%;
+    right: 50%;
+    left: 45%;
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 8px solid #001833;
+}

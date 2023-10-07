@@ -1,0 +1,100 @@
+{
+    "emulationTitle": [
+        {
+            "Name": "Lao động tiên tiến",
+            "ID": "LĐTTCX",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp xã/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Chiến sĩ thi đua cơ sở",
+            "ID": "CSTDCS",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp huyện/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Chiến sĩ thi đua cơ sở",
+            "ID": "CSTDCS",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp huyện/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Cờ thi đua cấp tỉnh",
+            "ID": "CTDCT",
+            "RewardObject": "Tập thể",
+            "RewardLevel": "Cấp tỉnh/tương đương",
+            "TypeMovement": "Thường xuyên; Theo đợt",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Lao động tiên tiến",
+            "ID": "LĐTTCX",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp xã/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Chiến sĩ thi đua cơ sở",
+            "ID": "CSTDCS",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp huyện/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Chiến sĩ thi đua cơ sở",
+            "ID": "CSTDCS",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp huyện/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Cờ thi đua cấp tỉnh",
+            "ID": "CTDCT",
+            "RewardObject": "Tập thể",
+            "RewardLevel": "Cấp tỉnh/tương đương",
+            "TypeMovement": "Thường xuyên; Theo đợt",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Lao động tiên tiến",
+            "ID": "LĐTTCX",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp xã/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Chiến sĩ thi đua cơ sở",
+            "ID": "CSTDCS",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp huyện/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Chiến sĩ thi đua cơ sở",
+            "ID": "CSTDCS",
+            "RewardObject": "Cá nhân",
+            "RewardLevel": "Cấp huyện/tương đương",
+            "TypeMovement": "Thường xuyên",
+            "Status": "Sử dụng"
+        },
+        {
+            "Name": "Cờ thi đua cấp tỉnh",
+            "ID": "CTDCT",
+            "RewardObject": "Tập thể",
+            "RewardLevel": "Cấp tỉnh/tương đương",
+            "TypeMovement": "Thường xuyên; Theo đợt",
+            "Status": "Sử dụng"
+        }
+    ]
+}

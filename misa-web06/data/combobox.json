@@ -1,0 +1,20 @@
+{
+    "listItem": [
+        {
+            "ID": 1,
+            "Name": "Cấp Xã/tương đương"
+        },
+        {
+            "ID": 2,
+            "Name": "Cấp Huyện/tương đương"
+        },
+        {
+            "ID": 3,
+            "Name": "Cấp Tỉnh/tương đương"
+        },
+        {
+            "ID": 4,
+            "Name": "Cấp Nhà nước"
+        }
+    ]
+}

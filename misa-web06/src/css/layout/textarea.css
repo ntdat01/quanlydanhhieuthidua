@@ -1,0 +1,11 @@
+textarea:focus {
+    border-color: var(--color-primary);
+}
+
+textarea:hover {
+    border-color: var(--color-primary);
+}
+
+textarea {
+    padding: 8px;
+}

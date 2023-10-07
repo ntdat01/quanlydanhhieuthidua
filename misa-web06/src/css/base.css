@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+* {
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: MISA Fonts;
+}
+
+/* font family */
+@font-face {
+    font-family: MISA Fonts;
+    src: url(../assets/font/GoogleSans-Regular.otf);
+}
+
+/* color */
+:root {
+    --color-primary: #2979FF;
+    --color-hover: #3395FF;
+    --color-active: #004999;
+    --color-btn-extra: #ffffff;
+    --color-btn-extra-hover: #F6F6F6;
+    --color-btn-extra-active: #EBEBEB;
+    --color-border-default: #E0E0E0;
+    --color-btn-save: #F6F6F6;
+    --color-btn-save-hover: #F6F6F6;
+    --color-btn-save-active: #EBEBEB;
+    --color-border-save: #E0E0E0;
+}

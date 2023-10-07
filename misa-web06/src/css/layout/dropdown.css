@@ -1,0 +1,15 @@
+.dropdown {
+    display: flex;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    align-items: center;
+}
+
+.input-dropdown {
+    width: 50px;
+    border: none;
+    outline: none;
+    padding: 8px 12px;
+    margin-left: 3px;
+}

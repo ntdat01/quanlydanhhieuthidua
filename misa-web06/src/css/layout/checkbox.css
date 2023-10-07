@@ -1,0 +1,13 @@
+.input--checkbox {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+/* .input--checkbox:focus {
+    border-color: blue !important;
+} */
+
+.value-checkbox {
+    margin-right: 10px;
+}

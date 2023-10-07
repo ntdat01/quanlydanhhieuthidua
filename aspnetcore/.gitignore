@@ -1,0 +1,32 @@
+# Bỏ qua các tệp tạm thời được tạo ra bởi Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+
+# Bỏ qua tệp cấu hình cục bộ
+*.suo
+*.user
+*.sln.docstates
+
+# Bỏ qua các tệp tạo ra bởi NuGet
+packages/
+
+# Bỏ qua các tệp tạo ra bởi ReSharper
+_ReSharper*/
+
+# Bỏ qua các tệp tạo ra bởi Rider
+.idea/
+
+# Bỏ qua tệp log và tệp tạm thời
+*.log
+*.log.*
+*.bak
+*.tmp
+
+# Bỏ qua tệp cấu hình môi trường
+.env
+
+# Bỏ qua thư mục đầu ra của dự án
+/bin/
+/obj/
